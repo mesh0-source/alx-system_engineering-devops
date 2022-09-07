@@ -1,3 +1,2 @@
 #!/bin/bash
-echo $((TRUEKNOWLEFGE + 128))
-
+echo $((TRUEKNOWLEFGE+ 128))
